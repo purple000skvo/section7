@@ -3,4 +3,4 @@ Flask-JWT==0.3.2
 Flask==2.1.2
 Flask-SQLAlchemy==2.5.1
 uwsgi
-psycopg2
+psycopg2-binary
